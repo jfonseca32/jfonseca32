@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a92f0&height=100&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a92f0,100:20e3b2&height=100&section=header" alt="header"/>
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4500&pause=700&color=ffffff&width=700&lines=Hello%2C+I'm+Joao+Pedro;Mechanical+Engineer;Computer+Scientist;Breaker+of+Things+(and+Sometimes+Fixer)" alt="Engineer"/>
@@ -61,4 +61,4 @@ These days, I’m focused on developing as a coder and engineer, blending AI, so
 > [![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](_docs/JPDF-Aug25-Resume.pdf)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a92f0&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,7,11&height=100&section=footer" alt="footer"/>
