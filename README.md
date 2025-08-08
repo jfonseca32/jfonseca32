@@ -1,69 +1,64 @@
-# 🏄‍♂️ Forrest Knight
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a92f0&height=100&section=header" alt="header"/> 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4500&pause=700&color=ffffff&width=700&lines=Hello%2C+I'm+Joao+Pedro;Mechanical+Engineer;Computer+Scientist;Breaker+of+Things+(and+Sometimes+Fixer)" alt="Engineer"/>
+  </a>
+</p>
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+I'm an engineer, coder, and robotics enthusiast blending hands-on experimentation with computational intelligence. I build, test, and optimize from 3D-printed squid-inspired nozzles, to high-performance racing cars, to ML-powered control systems. My work is rooted in curiosity and rigor: I design experiments, craft code, analyze data, and turn ideas into tangible results. Let's connect!
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
-
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<br>
+<p align="left">
+   <a href="https://github.com/jfonseca32">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jfonseca32?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
+   </a>
+   &nbsp;
+   <a href="https://www.linkedin.com/in/joao-pedro-dudziak-fonseca/">
+     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn%20-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+   </a>
+   &nbsp;
+  <a href="mailto:jfonseca32@gatech.edu">
+    <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,matlab,javascript,html,css,selenium,anaconda,pytorch,sklearn,tensorflow,arduino,raspberrypi,git,github,blender,autocad&perline=9)](https://skillicons.dev)
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
-[![My New PC // I have way too many.](https://ytcards.demolab.com/?id=m5rvhYKrIM4&title=My+New+PC+%2F%2F+I+have+way+too+many.&lang=en&timestamp=1753205655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=45 "My New PC // I have way too many.")](https://www.youtube.com/shorts/m5rvhYKrIM4)
-[![My Linux Ubuntu Setup for Software Development](https://ytcards.demolab.com/?id=T3sax7PB0vw&title=My+Linux+Ubuntu+Setup+for+Software+Development&lang=en&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "My Linux Ubuntu Setup for Software Development")](https://www.youtube.com/watch?v=T3sax7PB0vw)
-[![I Overengineered 3 Buttons to Explain Software Architecture](https://ytcards.demolab.com/?id=Aw3_hOG3BzE&title=I+Overengineered+3+Buttons+to+Explain+Software+Architecture&lang=en&timestamp=1750868400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851 "I Overengineered 3 Buttons to Explain Software Architecture")](https://www.youtube.com/watch?v=Aw3_hOG3BzE)
-[![Computer Melting](https://ytcards.demolab.com/?id=OAiLfS7Gx-g&title=Computer+Melting&lang=en&timestamp=1750462931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "Computer Melting")](https://www.youtube.com/shorts/OAiLfS7Gx-g)
-[![i'm sorry nixOS, i've failed you. maybe next time.](https://ytcards.demolab.com/?id=YMxTTTBZhYM&title=i%27m+sorry+nixOS%2C+i%27ve+failed+you.+maybe+next+time.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "i'm sorry nixOS, i've failed you. maybe next time.")](https://www.youtube.com/watch?v=YMxTTTBZhYM)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; Latest GitHub Projects
+<!-- BEGIN GITHUB-PROJECT-CARDS -->
+[![IKML: Inverse Kinematics Approximation with Machine Learning](https://img.shields.io/badge/Inverse%20Kinematics%20with%20ML-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfonseca32/Inverse-Kinematics-Approximation-with-ML/)
+<!-- END GITHUB-PROJECT-CARDS -->
 
 #
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfonseca32&show_icons=true&count_private=true&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfonseca32&hide_border=false&theme=gruvbox" alt="jfonseca32 streak" />
+</p>
 
 #
-<!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+ <summary><h3> My Coding Journey</h3></summary>
+ 
+My journey started as a Mechanical Engineering student with a fascination for making things move and think, from robots to simulations to all kinds of intelligent systems. Early on, I realized programming wasn’t just a tool, it was a creative superpower. I wanted to be like **Mark Rober**: bringing cool ideas to life by designing, building, and coding both software and hardware. So I dove deep into Python and C++, first automating my coursework, then building my own tools and experimental setups just for the fun (and the challenge) of it.
+
+As I explored further, I got hooked on machine learning, control, and simulation, using code to bridge the gap between theory and hands-on engineering. I taught myself MATLAB, PyBullet, and even dabbled in embedded systems to prototype robots, analyze data, and experiment with new algorithms. There’s something incredibly satisfying about watching a robot do exactly what you told it, especially when you wrote all the code yourself.
+
+Internships in both research labs and industry opened my eyes to the world of robotics, scalable manufacturing, and experimental science. I’ve always thrived in environments where I can own the whole process, end-to-end: design, modeling, fabrication, coding, testing, and iteration. Whether I’m running real-time control on a prototype, optimizing a process for production, or debugging a gnarly bug at 2am, I genuinely enjoy solving hard problems and learning new things.
+
+These days, I’m focused on developing as a coder and engineer, blending AI, software, hardware, and design into whatever project I can dream up, always pushing a little further past my comfort zone.
+
+</details>
+
+#
+### Employer?
+> [!IMPORTANT]  
+> [![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](_docs/JPDF-Aug25-Resume.pdf)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a92f0&height=100&section=footer" alt="footer"/>
