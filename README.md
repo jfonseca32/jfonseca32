@@ -44,7 +44,7 @@ I'm an engineer, coder, and robotics enthusiast blending hands-on experimentatio
 #
 <details>
  <summary><h3> 
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNua28zY3JtZ2JrdDF5ejZmcG9hanJwaWVjYXV3bnI0OTU3c3g2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0rcsLjLqDpybadQU9I/giphy.gif" width="35">&nbsp; My Coding Journey</h3></summary>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhsbmxmNTBla2p5bDhucmJ1bnF6MnR6NWJlazdiODJvcmJ6eWowbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" width="35">&nbsp; My Coding Journey</h3></summary>
  
 My journey started as a Mechanical Engineering student with a fascination for making things move and think, from robots to simulations to all kinds of intelligent systems. Early on, I realized programming wasn’t just a tool, it was a creative superpower. I wanted to be like **Mark Rober**: bringing cool ideas to life by designing, building, and coding both software and hardware. So I dove deep into Python and C++, first automating my coursework, then building my own tools and experimental setups just for the fun (and the challenge) of it.
 
