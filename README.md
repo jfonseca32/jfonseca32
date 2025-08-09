@@ -33,6 +33,7 @@ https://jpdf.netlify.app/
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; Latest GitHub Projects
 <!-- BEGIN GITHUB-PROJECT-CARDS -->
 [![IKML: Inverse Kinematics Approximation with Machine Learning](https://img.shields.io/badge/Inverse%20Kinematics%20with%20ML-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfonseca32/Inverse-Kinematics-Approximation-with-ML/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfonseca32/Personal-Website/)
 <!-- END GITHUB-PROJECT-CARDS -->
 
 #
