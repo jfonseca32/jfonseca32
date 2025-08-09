@@ -5,8 +5,8 @@
   </a>
 </p>
 
-I'm an engineer, coder, and robotics enthusiast blending hands-on experimentation with computational intelligence. I build, test, and optimize from 3D-printed squid-inspired nozzles, to high-performance racing cars, to ML-powered control systems. My work is rooted in curiosity and rigor: I design experiments, craft code, analyze data, and turn ideas into tangible results. Let's connect!
-https://jpdf.netlify.app/
+I'm an engineer, coder, and robotics enthusiast blending hands-on experimentation with computational intelligence. I build, test, and optimize from 3D-printed squid-inspired nozzles, to high-performance racing cars, to ML-powered control systems. My work is rooted in curiosity and rigor: I design experiments, craft code, analyze data, and turn ideas into tangible results. Let's connect!  
+Checkout my webite: www.jpdf.me
 
 <br>
 <p align="left">
