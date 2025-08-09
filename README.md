@@ -26,7 +26,7 @@ Checkout my webite: www.jpdf.me
 ---
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,matlab,javascript,html,css,selenium,anaconda,pytorch,sklearn,tensorflow,arduino,raspberrypi,git,github,blender,autocad&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,matlab,javascript,html,css,typescript,nodejs,selenium,anaconda,pytorch,sklearn,tensorflow,arduino,raspberrypi,git,github,blender,autocad&perline=10)](https://skillicons.dev)
 <br />
 
 #
