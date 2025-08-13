@@ -40,9 +40,7 @@ Checkout my webite: www.jpdf.me
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jfonseca32&show_icons=true&count_private=true&theme=gruvbox" /> 
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfonseca32&hide_border=false&theme=gruvbox" alt="jfonseca32 streak" />
-
 </p>
 
 #
